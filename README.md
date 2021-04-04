@@ -1,7 +1,6 @@
 [<img src="https://i.imgur.com/a856gth.png" width="400" />](https://web2solutions.github.io/voodux/code/index.html)
 
 
-
 #   VooduX && React Tic Tac Toe game
 
 The notorious Tic Tac Toe React game using [voodux](https://github.com/web2solutions/voodux) as it underlying architecture to handle it data.
